@@ -1,6 +1,6 @@
 ## Usage
 
-**need to install python environment
+*Need to install python environment
  
 To run:
 ```
