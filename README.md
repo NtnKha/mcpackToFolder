@@ -1,5 +1,7 @@
 ## Usage
 
+**need to install python environment
+ 
 To run:
 ```
 mcpackToFoldet.bat
